@@ -3,7 +3,7 @@ int main()
 {
     char a[10];
     scanf("%s",a);
-    if(a[0]=='s'&&a[1]=='u')
+    if(a[0]=='S'&&a[1]=='u')
     {
         printf("yes");
         
