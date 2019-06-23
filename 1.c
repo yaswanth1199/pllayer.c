@@ -8,9 +8,12 @@ int main()
         printf("yes");
         
     }
-    else
+    else if(a[0]=='S'&&a[1]=='a')
     {
-        printf("no");
+        printf("yes");
         
+    }
+    else{
+        printf("no");
     }
 }
